@@ -15,8 +15,7 @@ callettes <- list(
   green <- c("#D0F099", "#A0DD99", "#40A966", "#006622", "#004400"),
   blue <- c("#AFDBF5", "#6CB4EE", "#467fea", "#324CB8", "#011F5B"),
   indigo <- c("#DBCDEF", "#D1ADFF", "#A873e2", "#6222c0", "#501377"),
-  violet <- c("#FFCAE9",  "#E1B2DD", "#B970C3", "#863bb6", "#603A83")
-  )
+  violet <- c("#FFCAE9",  "#E1B2DD", "#B970C3", "#863bb6", "#603A83"))
 #'
 #'#' Callettes
 #'
