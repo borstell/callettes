@@ -1,6 +1,6 @@
 # callettes
 
-`ggplot2` theme following the [visual identity of SU](https://www.su.se/medarbetare/kommunikation/grafisk-manual)
+Color palettes by Calle: `callettes`
 
 ## Install package
 
@@ -21,7 +21,9 @@ scales::show_col(callettes$rainbow, ncol=5)
 
 ### Basic colorblind-friendly palette
 ```r
-scales::show_col(callettes$friendly, ncol=7)
+#remotes::install_github("nowosad/colorblindcheck")
+library(colorblindcheck)
+palette_check(callettes$friendly, plot = TRUE)
 ```
 ![](examples/friendly.png)
 
