@@ -10,7 +10,9 @@
 #'
 #' @export
 callettes <- list(
-  rainbow = c("#FEB0B0", "#FFFF55", "#D0F099", "#AFDBF5","#DBCDEF","#FFCAE9"),
+  rainbow = c("#D03030", "#FFAA00", "#40A966", "#467fea", "#A873e2", "#B970C3"),
+  rainbow2 = c("#FEB0B0", "#FFFF55", "#D0F099", "#AFDBF5","#DBCDEF","#FFCAE9"),
+  rainbow3 = c("#700000", "#CC5500", "#004400", "#011F5B", "#501377", "#603A83"),
   friendly = c("#202020", "#FFCC33", "#104E8B", "#90BB90", "#A52A2A", "#E0E0E0", "#CCAAEE"),
   red = c("#FEB0B0", "#F08080", "#D03030", "#A01010", "#700000"),
   orange = c("#FFFF55", "#FFE033", "#FFAA00", "#FF8800", "#CC5500"),
