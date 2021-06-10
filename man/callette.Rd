@@ -1,0 +1,21 @@
+\name{callette}
+\alias{callette}
+\title{#' Callette}
+  \usage{
+    callette(name, n, type = c("discrete", "continuous"), expand = FALSE)
+  }
+  \arguments{
+    \item{name}{Name of palette, options: \code{rainbox}, \code{friendly},
+      \code{red}, \code{orange}, \code{green},
+      \code{blue}, \code{indigo}, \code{violet}}
+    
+    \item{n}{Number of colors needed}
+    
+    \item{type}{Continuous or discrete}
+    
+    \item{expand}{Expand palette length (default is `FALSE`)}
+  }
+  \description{
+    Color palettes by Calle: `callettes`
+  }
+  
