@@ -10,12 +10,12 @@
 #'
 #' @export
 callettes <- list(
-  red <- c("#FEB0B0", "#F08080", "#D03030", "#A01010", "#700000"),
-  orange <- c("#FFFF55", "#FFE033", "#FFAA00", "#FF8800", "#CC5500"),
-  green <- c("#D0F099", "#A0DD99", "#40A966", "#006622", "#004400"),
-  blue <- c("#AFDBF5", "#6CB4EE", "#467fea", "#324CB8", "#011F5B"),
-  indigo <- c("#DBCDEF", "#D1ADFF", "#A873e2", "#6222c0", "#501377"),
-  violet <- c("#FFCAE9",  "#E1B2DD", "#B970C3", "#863bb6", "#603A83"))
+  red = c("#FEB0B0", "#F08080", "#D03030", "#A01010", "#700000"),
+  orange = c("#FFFF55", "#FFE033", "#FFAA00", "#FF8800", "#CC5500"),
+  green = c("#D0F099", "#A0DD99", "#40A966", "#006622", "#004400"),
+  blue = c("#AFDBF5", "#6CB4EE", "#467fea", "#324CB8", "#011F5B"),
+  indigo = c("#DBCDEF", "#D1ADFF", "#A873e2", "#6222c0", "#501377"),
+  violet = c("#FFCAE9",  "#E1B2DD", "#B970C3", "#863bb6", "#603A83"))
 #'
 #'#' Callettes
 #'
